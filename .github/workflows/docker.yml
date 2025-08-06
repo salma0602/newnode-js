@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: salma0602/simdjson_nodejs:latest
+          tags: salma0602/newnode-js:latest
